@@ -3,8 +3,8 @@
 
 ### Binary files ###
 # Images
-.jpg
-.png
+*.jpg
+*.png
 
 ### macOS ###
 # General
